@@ -1,0 +1,22 @@
+h1 {
+  color : 0c8e05;
+  text-align:center;
+}
+p {
+  color: red;
+}
+div{
+  color: pink
+}
+table {
+  border: 2px solid blue;
+  border-collapse : collapse;
+  width: 50%;
+}
+th{
+background: yellow;
+  padding: 5px;
+}
+th ,td{
+  border: 1px solid pink;
+}
